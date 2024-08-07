@@ -1,3 +1,4 @@
+![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 
 <h1 align="center">Hi 👋,  I'm Kasthuri J Arachchi</h1>
 <h3 align="center">I am a `Junior` at Computer Science at PLYMOUTH UNIVERSITY (UK) - AFFILIATED WITH NSBM GREEN UNIVERSITY
