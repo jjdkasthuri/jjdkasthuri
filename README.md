@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamindu99&label=Profile%20views&color=0e75b6&style=flat" alt="kamindu99" /> </p>
 
-<p align="left"> <a href="https://twitter.com/k_a_m_i_n_d_u_" target="blank"><img src="https://img.shields.io/twitter/follow/k_a_m_i_n_d_u_?logo=twitter&style=for-the-badge" alt="k_a_m_i_n_d_u_" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="" /></a> </p>
 
 - 🌱 I’m currently learning **React Native, MERN**
 
