@@ -1,7 +1,8 @@
 ![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Kasthuri J Arachchi</h1>
-<h3 align="center">🎓 Junior Computer Science Student at Plymouth University (UK)<br> Affiliated with NSBM Green University</h3>
+<h3 align="center">🎓 Computer Science Graduate – BSc (Hons) in Computer Science<br>University of Plymouth (UK), Affiliated with NSBM Green University</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
